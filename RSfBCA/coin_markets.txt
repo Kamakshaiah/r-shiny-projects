@@ -1,0 +1,4 @@
+https://poloniex.com/exchange#btc_xmr
+https://coinmarketcap.com/
+https://www.quandl.com/data/BITFINEX-Bitfinex
+

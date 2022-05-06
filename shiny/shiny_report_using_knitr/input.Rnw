@@ -1,0 +1,11 @@
+\documentclass{article}
+
+\begin{document}
+
+<<names>>=
+input$df
+input$df[input$name]
+input$plot1
+@
+
+\end{document}

@@ -1,0 +1,9 @@
+\documentclass{article}
+
+\begin{document}
+
+<<names>>=
+plot(rnorm(input$value1), rnorm(input$value2))
+@
+
+\end{document}
